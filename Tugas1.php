@@ -1,6 +1,8 @@
 <html> 
     <head>
         <title>Form Barang</title>
+        <link rel="stylesheet" href="mycss.css">
+        <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
     </head>
     <style>
 table, th, td {
@@ -74,6 +76,7 @@ td {
 
 </tr>
 </table>
-     </body>
+<a href="latihan1.3.php" target="_self"><button><i class="fas fa-file-import" style="font-size:15px; color: green;"></i>INSERT</button></a>
+</body>
 </html>
                     
