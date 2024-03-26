@@ -1,9 +1,8 @@
 <html> 
     <head>
-        <title>Tugas1</title>
-    
-</head>
-<style>
+        <title>Form Barang</title>
+    </head>
+    <style>
 table, th, td {
   border: 1px solid black;
   padding: 15px;

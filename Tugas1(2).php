@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>Update Barang</title>
+        <link rel="stylesheet" href="mycss.css">
     </head>
 
     <body>
