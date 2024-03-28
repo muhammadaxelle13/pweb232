@@ -17,6 +17,7 @@
         <label for="jual">Jual:</label><br>
         <input type="text" id="kode" name="harga"><br><br>
         <input type="button" name="Insert" value="Insert">
-        <a href="Tugas1.php" target="_self"><button><i class="fas fa-circle-xmark" style="font-size:15px; color: red;"></i>CANCEL</button></a>
+        <a href="Tugas1.php" target="_self"><button><i class="fas fa-circle-xmark" style="font-size: 15px; color: red;"></i>CANCEL</button></a>
+        <a href="Tugas1.php" target= "-self"><button><i class="fa-solid fa-trash" style= "font-size: 15px; color: red;"></i>DELETE</button></a>
     </body>
 </html>
