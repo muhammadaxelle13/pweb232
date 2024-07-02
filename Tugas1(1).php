@@ -19,4 +19,4 @@
         <input type="button" name="Insert" value="Insert">
         <a href="Tugas1.php" target="_self"><button><i class="fas fa-circle-xmark" style="font-size:15px; color: red;"></i>CANCEL</button></a>
     </body>
-</html>
+</html>  
